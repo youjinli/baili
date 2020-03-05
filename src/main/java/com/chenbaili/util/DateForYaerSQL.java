@@ -1,4 +1,4 @@
-package com.chenbaili.practice.leetcode;
+package com.chenbaili.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
